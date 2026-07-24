@@ -1,27 +1,27 @@
-# Kood Java Exercises
+#  Kood Java Exercises
 
-This repository contains my Java programming exercises completed during my learning journey at Kood.
+Welcome to my Java exercises repository!
 
-## Topics Covered
+This repository contains my Java programming exercises and projects completed during my learning journey at Kood.
+
+## Topics
 
 - Variables & Data Types
 - Operators
-- Conditional Statements
-- Loops
 - Methods
+- Conditionals
+- Loops
 - Arrays
-- Classes & Objects
-- String Manipulation
-- Basic Algorithms
+- Strings
+- Object-Oriented Programming
 
-## Technologies
+## Goals
 
-- Java
-- VS Code
-- Git
-- GitHub
+- Improve Java programming skills
+- Practice writing clean and readable code
+- Build a strong GitHub portfolio
+- Document my learning journey
 
-## Goal
+## Author
 
-To document my progress, practise writing clean code, and build a strong GitHub portfolio while learning Java.
-
+Brian Muchiru
